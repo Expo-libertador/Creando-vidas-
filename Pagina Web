@@ -100,8 +100,15 @@
             
             <label for="motivoRegistro">¿Qué te motiva a unirte a nuestra comunidad de jardineros?</label><br>
             <textarea id="motivoRegistro" rows="4" cols="50"></textarea><br>
+            
 
             <input type="button" value="Registrarse" onclick="registrarUsuario()">
+
+
+            <h5>Mira el codigo de nuestra pagina en git hub: <a href="https://github.com/Expo-libertador/Creando-vidas-.git">Link de github</a></h5>
+            
+
+            
         </form>
     </section>
 
